@@ -8,4 +8,4 @@
 
 - http://bookdown.org
 
-- 
+- http://www.daisy.org/daisypedia/tools-creating-epub-3-files
